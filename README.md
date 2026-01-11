@@ -1,4 +1,4 @@
-#BARTLAB BabyVernier V0
+# BARTLAB BabyVernier V0
 An Alternative Non-Contact Anthropometric Measurement System
 
 The BARTLAB BabyVernier V0 is the inaugural version of a specialized anthropometric measurement system developed by BART LAB. It is designed to provide a gentle, non-contact alternative to traditional physical calipers, specifically for children with physical or neurodevelopmental disabilities who may find prolonged physical contact distressing or uncomfortable.
